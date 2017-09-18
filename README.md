@@ -1,1 +1,1 @@
-# AI-CFD
+# AI⚡CFD
